@@ -1,0 +1,4 @@
+client/
+server/*.pyc
+server/env/
+npm-debug.log

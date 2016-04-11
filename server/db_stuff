@@ -1,0 +1,2 @@
+CREATE CONSTRAINT ON (tree:Tree) ASSERT tree.name IS UNIQUE
+ 
